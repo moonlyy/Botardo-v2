@@ -16,8 +16,7 @@
 - **server** - Debug del servidor. Sin sentido.
 
 ## Instalación
-> Proximamente, perra.
-Dependencias:
+> Dependencias:
  - discord.js
  - megadb
  - fs
